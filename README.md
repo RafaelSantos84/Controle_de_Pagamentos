@@ -4,5 +4,3 @@ Para a plena execução do projeto, assim que fizer a primeira sincronização d
 Sempre que iniciar a codar no projeto, sincronizar para ter a versão mais recente do mesmo.
 
 18/07/2026
-
-Diego
